@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 EASY,Two Sum,100.0,0.5577698896587009,https://leetcode.com/problems/two-sum,"Array, Hash Table"
 EASY,Best Time to Buy and Sell Stock,92.5,0.5525965868759138,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,LRU Cache,92.5,0.4521454488123034,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List" TO BE DONE
+MEDIUM,LRU Cache[TO BE DONE],92.5,0.4521454488123034,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List" 
 MEDIUM,Number of Islands,92.5,0.6231991397851002,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
 MEDIUM,Reorganize String,92.5,0.5619629406023937,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
 MEDIUM,Maximum Frequency After Subarray Operation,88.8,0.2657710280373832,https://leetcode.com/problems/maximum-frequency-after-subarray-operation,"Array, Hash Table, Dynamic Programming, Greedy, Enumeration, Prefix Sum"
